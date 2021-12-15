@@ -60,3 +60,4 @@ function getResults() {
    
 resultsDisplay.innerHTML = results
 }
+
